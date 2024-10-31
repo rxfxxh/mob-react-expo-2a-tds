@@ -1,4 +1,4 @@
-import react from 'React';
+import React from 'React';
 import { Text } from 'react-native';
 
 export default function Cesta() {
